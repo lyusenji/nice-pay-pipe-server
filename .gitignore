@@ -59,3 +59,7 @@ node_modules
 # Prisma
 /prisma/*
 !/prisma/*.schema
+
+
+# README
+README.md
